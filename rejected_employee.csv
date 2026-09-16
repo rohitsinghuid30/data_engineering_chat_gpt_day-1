@@ -1,0 +1,2 @@
+id,name,department_id,salary,department_name,manager,rejected_reason
+107,Vikas,50,35000,,,Invalid Department
